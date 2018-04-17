@@ -1,0 +1,3 @@
+*.pyc
+nba.db
+.DS_Store
